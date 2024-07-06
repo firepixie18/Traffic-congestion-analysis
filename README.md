@@ -16,12 +16,6 @@ This project involves utilizing both the YOLOv8 and YOLOv5 models to analyze veh
 - **Performance Comparison:** Evaluating the performance of both models to determine the best fit for different applications.
 - **Embedded Systems:** YOLOv5's compatibility with small devices like Raspberry Pi for practical, real-world implementations.
 
-## mAP Score
-Below is the mean Average Precision (mAP) score comparison between YOLOv8 and YOLOv5:
-
-![mAP Score YOLOv8](Yolo V8/metrics/map50_scores)
-![mAP Score YOLOv5](path/to/your/map_score_image.png)
-
 ## Future Potential
 The future potential of this project is immense. We are developing an algorithm to adjust traffic lights based on real-time vehicle data, aiming to reduce congestion and enhance traffic flow, making our cities smarter.
 
