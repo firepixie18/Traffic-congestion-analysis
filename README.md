@@ -19,7 +19,7 @@ This project involves utilizing both the YOLOv8 and YOLOv5 models to analyze veh
 ## mAP Score
 Below is the mean Average Precision (mAP) score comparison between YOLOv8 and YOLOv5:
 
-![mAP Score YOLOv8](path/to/your/map_score_image.png)
+![mAP Score YOLOv8](Yolo V8/metrics/map50_scores)
 ![mAP Score YOLOv5](path/to/your/map_score_image.png)
 
 ## Future Potential
