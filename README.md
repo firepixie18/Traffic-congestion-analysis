@@ -1,7 +1,7 @@
 # Traffic-congestion-analysis
 
 ## Overview
-This project involves utilizing both the YOLOv8 and YOLOv5 models to analyze vehicle counts on the road. By leveraging the strengths of both models, we aim to evaluate their performances in real-time vehicle detection and ensure the highest accuracy and efficiency.
+This project involves utilizing both the YOLOv8 and YOLOv5 models to analyze vehicle counts on the road. By leveraging the strengths of both models, we aim to evaluate their performances in real-time vehicle detection and ensure the highest accuracy and efficiency. Additionally, we are manipulating the time counter using an algorithm that efficiently changes the traffic lights to minimize the standing time for approaching vehicles. This optimization has been simulated using Pygame.
 
 ## Models Used
 
@@ -17,7 +17,7 @@ This project involves utilizing both the YOLOv8 and YOLOv5 models to analyze veh
 - **Embedded Systems:** YOLOv5's compatibility with small devices like Raspberry Pi for practical, real-world implementations.
 
 ## Future Potential
-The future potential of this project is immense. We are developing an algorithm to adjust traffic lights based on real-time vehicle data, aiming to reduce congestion and enhance traffic flow, making our cities smarter.
+The future potential of this project is immense. We have developed an algorithm to adjust traffic lights based on real-time vehicle data, aiming to integrate this algorithm into a real-time detection system using Raspberry Pi and a traffic light model with cameras. This integration will help reduce congestion and enhance traffic flow, making our cities smarter.
 
 ## Keywords
 - Machine Learning
